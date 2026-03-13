@@ -1,0 +1,135 @@
+{
+  "site": {
+    "name": "Chao Xiong Trading Co., Ltd.",
+    "tagline": "Premium Chinese Tea & Tea Sets for Global Trade",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "home": {
+    "heroTitle": "Authentic Chinese Tea & Exquisite Tea Sets",
+    "heroSubtitle": "Source the finest teas directly from China. Premium quality, traditional craftsmanship, and reliable export service.",
+    "highlights": {
+      "title": "Why Choose Us",
+      "q1": "Authentic Sourcing",
+      "a1": "Direct relationships with top tea gardens ensuring genuine origin and quality.",
+      "q2": "Global Logistics",
+      "a2": "Experienced in international shipping to ensure your tea arrives fresh and safe.",
+      "q3": "Quality Assurance",
+      "a3": "Rigorous inspection and tasting processes to meet international standards."
+    },
+    "cta": {
+      "primary": "Request a Quote",
+      "secondary": "View Collections"
+    }
+  },
+  "products": {
+    "title": "Our Collections",
+    "subtitle": "Explore our range of premium teas and handcrafted tea sets.",
+    "items": [
+      {
+        "slug": "green-tea",
+        "title": "Premium Green Tea",
+        "desc": "Fresh and aromatic green teas including Longjing (Dragon Well) and Biluochun.",
+        "images": ["/images/products/green-tea-1.png"]
+      },
+      {
+        "slug": "black-tea",
+        "title": "Classic Black Tea",
+        "desc": "Rich and full-bodied black teas like Keemun and Dianhong.",
+        "images": ["/images/products/black-tea-1.png"]
+      },
+      {
+        "slug": "oolong-tea",
+        "title": "Oolong Tea",
+        "desc": "Diverse flavors from Tieguanyin to Da Hong Pao, offering complex notes.",
+        "images": ["/images/products/oolong-tea-1.png"]
+      },
+      {
+        "slug": "white-tea",
+        "title": "White Tea",
+        "desc": "Delicate and subtle, featuring Silver Needle and White Peony varieties.",
+        "images": ["/images/products/white-tea-1.png"]
+      },
+      {
+        "slug": "puerh-tea",
+        "title": "Pu-erh Tea",
+        "desc": "Aged and fermented teas known for their deep, earthy flavors and health benefits.",
+        "images": ["/images/products/puerh-tea-1.png"]
+      },
+      {
+        "slug": "blooming-tea",
+        "title": "Blooming Tea",
+        "desc": "Hand-tied tea balls that unfurl into beautiful flower displays when steeped.",
+        "images": ["/images/products/blooming-tea-1.png"]
+      },
+      {
+        "slug": "ceramic-tea-sets",
+        "title": "Ceramic Tea Sets",
+        "desc": "Traditional porcelain and ceramic sets perfect for daily use or ceremonies.",
+        "images": ["/images/products/ceramic-set-1.png"]
+      },
+      {
+        "slug": "purple-clay-tea-sets",
+        "title": "Purple Clay (Zisha) Tea Sets",
+        "desc": "Authentic Yixing clay teapots and cups, ideal for enhancing tea flavor.",
+        "images": ["/images/products/purple-clay-set-1.png"]
+      },
+      {
+        "slug": "glass-tea-sets",
+        "title": "Glass Tea Sets",
+        "desc": "Elegant and modern glass sets, perfect for viewing blooming teas.",
+        "images": ["/images/products/glass-set-1.png"]
+      },
+      {
+        "slug": "tea-trays",
+        "title": "Bamboo & Wooden Tea Trays",
+        "desc": "Essential trays for Gongfu tea brewing, available in various styles.",
+        "images": ["/images/products/tea-tray-1.png"]
+      },
+      {
+        "slug": "tea-tools",
+        "title": "Tea Accessories & Tools",
+        "desc": "Strainers, scoops, tongs, and knives for the complete tea experience.",
+        "images": ["/images/products/tea-tools-1.png"]
+      },
+      {
+        "slug": "gift-sets",
+        "title": "Premium Gift Boxes",
+        "desc": "Beautifully packaged tea and teaware combinations, perfect for corporate gifts.",
+        "images": ["/images/products/gift-set-1.png"]
+      }
+    ]
+  },
+  "about": {
+    "title": "About Chao Xiong Trading",
+    "subtitle": "Bridging the world with the finest Chinese tea culture.",
+    "body": "Chao Xiong Trading Co., Ltd. is dedicated to bringing authentic Chinese tea and exquisite tea ware to tea lovers around the globe. Based in China, we work directly with historic tea gardens and skilled artisans to ensure every leaf and every pot meets the highest standards of quality. Whether you are a retailer, distributor, or tea enthusiast, we provide professional export services, reliable shipping, and a passion for tea culture."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for wholesale inquiries and export details.",
+    "cards": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Your Name",
+      "company": "Company Name",
+      "email": "Email Address",
+      "message": "Message / Inquiry",
+      "submit": "Send Message"
+    },
+    "notes": {
+      "privacy": "We value your privacy. Your information will only be used to answer your inquiry."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved. Chao Xiong Trading Co., Ltd."
+  }
+}
