@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shunde Metal Processing Factory Co., Ltd.",
-  description: "Bilingual corporate website for global trade (EN / 中文).",
+  title: "Chao Xiong Tea",
+  description: "Premium Chinese Tea & Tea Sets for Global Trade.",
 };
 
 export default function RootLayout({
